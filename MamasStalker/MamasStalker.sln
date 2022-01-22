@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MamasStalker", "MamasStalker\MamasStalker.csproj", "{553201E1-5115-4747-89C0-4545707CB6E7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Common", "Common\Common.csproj", "{8A7F803D-E6C1-402F-B3D0-968D48D4E741}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HandleImage", "HandleImage\HandleImage.csproj", "{71BFFD19-60CB-4823-828E-F048D98A3451}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{553201E1-5115-4747-89C0-4545707CB6E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{553201E1-5115-4747-89C0-4545707CB6E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{553201E1-5115-4747-89C0-4545707CB6E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{553201E1-5115-4747-89C0-4545707CB6E7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8A7F803D-E6C1-402F-B3D0-968D48D4E741}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A7F803D-E6C1-402F-B3D0-968D48D4E741}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A7F803D-E6C1-402F-B3D0-968D48D4E741}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A7F803D-E6C1-402F-B3D0-968D48D4E741}.Release|Any CPU.Build.0 = Release|Any CPU
+		{71BFFD19-60CB-4823-828E-F048D98A3451}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71BFFD19-60CB-4823-828E-F048D98A3451}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71BFFD19-60CB-4823-828E-F048D98A3451}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71BFFD19-60CB-4823-828E-F048D98A3451}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DA3E5246-57EC-4727-8EA7-1D4FF1C9B528}
+	EndGlobalSection
+EndGlobal
